@@ -1,3 +1,5 @@
 ./ipynb_checkpoints
 ./checkpoints/
 temp_models/
+resnet_temp_model/
+resnet_temp_model/*
