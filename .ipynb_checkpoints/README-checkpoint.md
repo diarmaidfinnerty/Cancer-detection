@@ -18,12 +18,12 @@ use transfer learning of Inception Net V3 pretrained model. However, retraining 
 ----
 I also trained a ResNet50 model which also showed good performance. Transfer learning proved to be less useful. Training all the parameters from scratch proved to be more
 useful. 
-<div style="text-align:center"><img src="https://i.stack.imgur.com/XTo6Q.png" width="900" height="400" />   
+<div style="text-align:center"><img src="https://i.stack.imgur.com/XTo6Q.png" width="400" height="900" />   
     
 ## VGG-16 Model
 ----
 A VGG-16 model was trained for 10 epochs. However it proved to take too long and quickly over-fitted to the problem. 
-<div style="text-align:center"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/08/08131808/temp7.png" width="900" height="400" />
+<div style="text-align:center"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/08/08131808/temp7.png" width="800" height="600" />
 
 
 
