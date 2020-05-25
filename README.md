@@ -12,7 +12,7 @@ The paper makes use of the inception_net (V3) algorithm so I have used the same 
 This is the structure of the Inception Net Convolutional Neural Network. One of implementations mentioned in the paper was to 
 use transfer learning of Inception Net V3 pretrained model. However, retraining the network from scrathed proved to me a more successful strategy. 
 
-<div style="text-align:center"><img src="https://4.bp.blogspot.com/-TMOLlkJBxms/Vt3HQXpE2cI/AAAAAAAAA8E/7X7XRFOY6Xo/s1600/image03.png" width="900" height="400" />    
+<div style="text-align:center"><img src="https://4.bp.blogspot.com/-TMOLlkJBxms/Vt3HQXpE2cI/AAAAAAAAA8E/7X7XRFOY6Xo/s1600/image03.png" width="400" height="900" />    
     
 ## ResNet 50 Model
 ----
@@ -23,7 +23,7 @@ useful.
 ## VGG-16 Model
 ----
 A VGG-16 model was trained for 10 epochs. However it proved to take too long and quickly over-fitted to the problem. 
-<div style="text-align:center"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/08/08131808/temp7.png" width="900" height="400" />
+<div style="text-align:center"><img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/08/08131808/temp7.png" width="900" height="600" />
 
 
 
