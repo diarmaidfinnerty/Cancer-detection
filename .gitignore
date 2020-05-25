@@ -1,5 +1,9 @@
 ./ipynb_checkpoints
 ./checkpoints/
 temp_models/
-resnet_temp_model/
-resnet_temp_model/*
+resnet_temp_models/
+resnet_temp_models/*
+vgg16_temp_models/
+vgg16_temp_models/*
+inception_net_models/
+inception_net_models/*
